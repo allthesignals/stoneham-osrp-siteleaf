@@ -2,6 +2,9 @@
 title: Stoneham OSRP
 timezone: UTC
 collections:
+  meeting-dates:
+    title: Meeting Dates
+    output: true
   posts:
     title: Posts
     output: true
